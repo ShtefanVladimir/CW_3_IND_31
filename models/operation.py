@@ -1,7 +1,7 @@
 from datetime import datetime
 
 
-class Foo:
+class Operation:
     def __init__(
             self,
             pk: int,
